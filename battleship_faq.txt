@@ -1,0 +1,374 @@
+
+
+   ___    _   _____  _____  __    __  __         _____  ___ 
+  / __\  /_\ /__   \/__   \/ /   /__\/ _\  /\  /\\_   \/ _ \
+ /__\// //_\\  / /\/  / /\/ /   /_\  \ \  / /_/ / / /\/ /_)/
+/ \/  \/  _  \/ /    / / / /___//__  _\ \/ __  /\/ /_/ ___/ 
+\_____/\_/ \_/\/     \/  \____/\__/  \__/\/ /_/\____/\/     
+                                                            
+
+
+Author: Tyler H
+Email: tylerh1701@hotmail.com
+Website: www.thetjzone.blogspot.com
+
+Contents:
+I.   Introduction/Basic Gameplay
+II.  Controls
+III. Ships
+IV. The Game
+	A. Basics
+	B. LEVEL 1
+	C. LEVEL 2
+	D. LEVEL 3
+	E. LEVEL 4
+	F. LEVEL 5
+	G. LEVEL 6
+	H. LEVEL 7
+	I. LEVEL 8
+	J. The Ending
+V. Strategies
+VI. Differences
+VII. Thanks & Legal Stuff
+
+
+============================================================
+
+I. Introduction/Basic Gameplay
+
+Basically, I am writing this FAQ because there in no FAQ
+for Battleship for NES currently at GameFAQs.com.  I went to
+check an FAQ for this game to find out what the sonar does, 
+and I found no info.  So instead, I decided to write my own 
+FAQ about the game.  
+
+Milton Bradley (huh, I thought he played baseball?) first 
+released this board game back in the '70s, and the NES 
+version was released in 1993.  I’ve only been playing it for a 
+couple weeks, but it has become one of my favorite NES
+games. 
+
+As you can tell by the name, this game is based on the classic
+board game Battleship, and this game goes on the same premise 
+of the board game.  There are a few differences, which will be
+mentioned later in the walkthrough.
+
+I thoroughly enjoyed this game, though it does get quite 
+repetitive.  If you are a big fan of the board game Battleship
+(which I am), they you will like this game as well.
+
+Just remember that this game involves a lot of luck.  You can
+go on big winning streaks and losing streaks.  You will get 
+frustrated, but don’t give up, because this is a very fun game.
+
+If you like this guide and want to check out any other guides 
+I've written, check out:
+
+Nerf N-Strike for Wii
+TimeSplitters 2 for GameCube (Notre Dame Hard Mode)
+Chips Challenge for PC
+
+============================================================
+
+II. Controls
+
+The NES controller is very simple, making the controls very 
+simple as well.
+
+SETTING PIECES:
+
+Control Pad = Move ship up, down, left, or right
+A = Select Location for Ship
+B = Flip Ship
+
+ATTACKING:
+
+Control Pad = Move crosshairs up, down, left, or right
+A = Select location to attack
+B = Select location to attack
+SELECT = Chose weapon to attack with
+START = View your own board
+
+=============================================================
+
+III. Ships
+
+Submarine-Permit Class 
+Size: 1 square
+Weapon: MK-48X, Shaped like a +, 5 shots.
+
+Frigate-Knox Class 
+Size: 2 squares
+Weapon: Polaris, corners of a square, 4 shots
+
+Destroyer-Coontz Class
+Size: 3 squares
+Weapon: ASROC-71, 2 separated lines of 2, 4 shots
+Weapon: Sonar, searches 8 squares for submarine
+
+Cruiser-Albany Class
+Size: 4 squares
+Weapon: SeaDart, shaped like an X, 5 shots
+Weapon: Aerial RECON, searches 4 squares for ships
+
+Battleship-Iowa Class
+Size:5 squares
+Weapon: Tomahawk 55M, Shaped like an X but bigger, 6 shots
+Weapon: Harpoon 55M, shaped like a odd 0, 6 shots
+
+Carrier-Nimitz Class
+Size: 8 Squares
+Weapon: P-3 Orion, checker board style, 8 shots
+Weapon: Talos, Shaped like an L, 7 shots
+
+==============================================================
+
+IV. The Game
+
+
+A. Basics
+The game starts up right away.  Choose start, and you will
+enter BATTLE 1-1.  Now you have to choose where to place all of
+your ships.  I like to place them randomly across the board.
+
+It is not a good idea to place them all in one location, because
+the special weapons will hit them many times if they are located
+together.
+
+After your pieces are set, its time to attack.  Switch through
+your weapons, and attack with one you like.  It is good to use
+all of the special weapons first, because if any boat is sunk, 
+you lose that weapon.  Remember that you can use each special
+weapon only once, and you will be down to the RIM-66 (regular
+single shot) after they are gone.
+
+On your screen, you will notice a box in the corner.  It keeps 
+track of the number of your shots, your hits, your accuracy, and 
+the amount of remaining squares your ship has.
+
+Keep in mind that there are 96 total boxes, so you’re total
+number of shots should be under 96, unless you have shot the
+same place several times.
+
+Once you fire, it will cut to a movie scene where your missile
+either hits the ship or misses it. NOTE: The location of the 
+missile hitting the water is random, and does not represent the
+real location of the ship.  For example, if you miss on the bottom
+left of the ship, that does not mean that the ship is really up
+and right.
+
+After firing, your screen will either have a red or blue dot on it
+Red is hit, and blue is miss.  Once you hit a ship, continue firing
+in that area until it has been sunk.  You will be notified if a 
+ship has been finished off in the cut scene.  They cannot go diagonal.
+
+Shots are exchanged back and forth until somebody has lost all of
+their ships.  If you win, you will be given a password, and move
+on to the next level.  If you lose, you will be given the option
+of looking at the computers screen, and retrying the level.
+
+
+B. LEVEL 1
+I noticed no change in the computers talent between levels 
+1-1 and 1-5.  You just have to beat the computer 5 times, which
+is rather simple to do.  Just use all of your special weapons
+before you lose them.
+
+Passwords:
+1-1  None
+1-2  9946
+1-3  8472
+1-4  5535
+1-5  1929
+
+
+C. LEVEL 2
+Very little change in the AI of the game, just 5 more easy levels.
+The one difference is that starting in 2-1, there is a new ship,
+the submarine.  It comes with its own special weapon, and takes up
+only one space.  It can be very hard to find on the computers screen.
+Also, always fire with the submarine's special weapon first, because 
+after one turn, it could be destroyed and gone.
+
+Passwords:
+2-1  7390
+2-2  6501
+2-3  5340
+2-4  1536
+2-5  3328 
+
+
+D. LEVEL 3
+Again, the computer plays stupid, and is easily beatable.  The 
+change that starts in Level 3 is that the Destroyer is now equipped
+with another special weapon, a sonar.  It surfaces over 8 squares
+and the waves and sound becomes longer if it finds the submarine.
+Save the sonar until later in the level or until your Destroyer is 
+almost sunk, because you will probably need it to help find the 
+submarine at the end.  Also, 3-1 is the first level where I noticed 
+that the computer placed ships that were touching each other, though
+this might be a coincidence.
+
+Passwords:
+3-1  9537
+3-2  8777
+3-3  2037
+3-4  5289
+3-5  3500
+
+
+E. LEVEL 4
+The cruiser now caries a nice little aerial recon.  It is just a 
+square, with 4 total squares in its area.  But it can be used for
+finding any ship, including the submarine. It reacts the same way as
+the sonar.  The difficulty starts to increase noticeably, or I'm
+just getting worse.
+
+Passwords:
+4-1  3500
+4-2  3642
+4-3  4412
+4-4  8379
+4-5  8182
+
+
+F. LEVEL 5
+No noticeable changes in the gameplay, just in the difficulty, 
+which is increasing.  The computer has touching ships often now.  
+In fact, in Battle 5-4, all the ships were placed on the left 
+half of the screen in my game.
+
+Passwords:
+5-1  8004
+5-2  5529
+5-3  4524
+5-4  4797
+5-5  9376
+
+
+G. LEVEL 6
+The insanely huge Carrier appears in this level.  Since almost 1/4 
+of the squares are occupied now, there will be a lot more action.
+And the Carrier's special weapon is sweet.  The best way to win
+is to get all of your special shots off, and try to stop the computer
+from shooting all of his.
+
+Passwords:
+6-1  1553
+6-2  7850
+6-3  5669
+6-4  9381
+6-5  9374
+
+
+H. LEVEL 7
+You will notice the new Harpoon 55M in this level, it is equipped 
+to the battleship.  Though the creators may have thought that all
+these weapons would increase the challenge of the game, it has
+really decreased the difficulty.  The computer's AI is better,
+though.  
+
+Passwords:
+7-1  4653
+7-2  5012
+7-3  8831
+7-4  9457
+7-5  6098
+
+
+I. LEVEL 8
+The cruiser obtains yet another huge weapon.  Again, the goal is to
+fire all of your special weapons, and not lose any to sunken ships.
+Here is a weird fact, I have never once hit a ship with the L shaped
+weapon.  Also, my last game was also my best, with a 46% accuracy
+rate.
+
+Password:
+8-1  9617
+8-2  5036
+8-3  6297
+8-4  8629
+8-5  8397
+
+
+J. The Ending
+
+The ending is just a battleship with crappy fireworks being fired
+out of it.  To see the ending, enter the password 1992.  From there,
+push start to see the credits.
+
+==================================================================
+
+V. Strategies
+
+There are just a couple strategies I noticed on this game:
+
+1. If you fire all your special weapons, you will probably win.
+
+2. Check the corners, because the CPU very often puts ships there.
+ 
+3. If you only need to destroy one more ship, attack only in places 
+   it could be located.  For example, if you need to destroy the
+   Battleship (5 spaces), then only fire shots in areas that the
+   Battleship would fit.  Very simple.
+
+4. Spread your shots out.  By the end of the game, you can use all
+   of your special weapons to basically pan over the entire screen.
+
+==================================================================
+
+VI. Differences Between NES Game and Board Game
+
+Besides the obvious difference that you use a controller instead
+or little pegs to attack, there are a couple other differences.
+
+1. The board game has 5 ships. The Carrier takes 5 spaces, 
+   Battleship takes up 4 spaces, Cruiser takes 3 spaces, Submarine 
+   takes 3 spaces, and Destroyer takes 2 spaces.
+   The NES game has 6 ships. The Carrier takes 8 spaces, 
+   Battleship takes 5 spaces, Cruiser takes 4 Spaces, Destroyer 
+   takes 3 spaces, Frigate takes 2 spaces, and the Submarine takes
+   just 1 space.
+   Thanks to Jed C. for correcting me on this one.
+
+2. The Frigate does not exist in the board game.
+
+3. Special Weapons do not exist in the board game.
+
+4. Cool animations do not exist in the board game.
+
+===================================================================
+
+VII. Thanks & Legal Stuff
+
+Thanks to Milton Bradley for creating the fine board game.
+
+Thanks to Lik-Sing for making sweet video game accessories.
+
+Thanks to Jed C., for some corrections on the Differences Section.
+
+Thanks to GameFAQs for hosting my FAQ, and letting me write one.
+
+Thanks to Oscar and John for helping me with my computer.
+
+Thanks to myself, for writing this unnecessary walkthrough.
+
+Thanks to anyone who reads this, for reading it.
+
+Thanks to http://www.network-science.de/ascii/ for the super-nifty
+ASCII Art.
+
+This guide may not be reproduced under any circumstances except for 
+personal, private use. It may not be placed on any web site or 
+otherwise distributed publicly without advance written permission. Use 
+of this guide on any other web site besides GameFAQs.com or as a part 
+of any public display is strictly prohibited, and a violation of 
+copyright.
+
+All trademarks and copyrights contained in this document are owned by 
+their respective trademark and copyright holders.
+
+Copyright 2006-2008 Tyler Hall
+
+===================================================================
+
